@@ -14,9 +14,13 @@ A simple recipe management app built using **Python** and **KivyMD**.
 
 ## 🛠️ How to Run:
 1. Install dependencies:
-  pip install kivy kivymd
+ ```bash
+pip install kivy kivymd requests
+```
 2. Run the app:
-  python main.py
+```bash
+python main.py
+```
 
 ##  Developer:
 - **Rahaf** 💙  
