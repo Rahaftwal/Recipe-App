@@ -18,5 +18,5 @@ A simple recipe management app built using **Python** and **KivyMD**.
 2. Run the app:
   python main.py
 
-## 👤 Developer:
+##  Developer:
 - **Rahaf** 💙  
